@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1922.072" height="1080" viewBox="0 0 1922.072 1080">
+  <g id="hero_bg" data-name="hero bg" transform="translate(0.253 -80)">
+    <g id="Group_17" data-name="Group 17">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1920" height="1080" transform="translate(0 80)" fill="#004dda" opacity="0.05"/>
+      <path id="Path_24" data-name="Path 24" d="M0,286.181S292.464,114.815,774.573,430.128s628.341,41.128,849.974,73.116,294.749,557.51,294.749,557.51" fill="none" stroke="#004dda" stroke-width="1" stroke-dasharray="15 12"/>
+      <path id="Path_25" data-name="Path 25" d="M0,923.661s463.83,191.93,854.544,59.407,324.453-137.093,559.795,0,249.051-799.707,507.243-660.329" fill="none" stroke="#004dda" stroke-width="1" stroke-dasharray="12 12"/>
+    </g>
+  </g>
+</svg>
